@@ -139,7 +139,7 @@ p {
 .btn:hover {
   color:white;
   background: #00ff55;
-  border-color: rgb(34, 34, 219);
+  border-color: #00ff55 ;
 }
 /* section */
 .section {
