@@ -1,4 +1,4 @@
 # [Live Demo](https://text-generator-roycua.vercel.app/)
 
-# Text Generator
+# Text Generator created using React 
 
