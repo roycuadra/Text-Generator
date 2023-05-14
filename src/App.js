@@ -18,7 +18,7 @@ function App() {
 
   return (
     <section className="section-center">
-      <h3>tired of boring lorem ipsum?</h3>
+      <h3>Text Generator</h3>
       <form onSubmit={handlerSubmit} className="lorem-form">
         <label htmlFor="amount">Paragraphs:</label>
         <input
