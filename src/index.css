@@ -123,8 +123,8 @@ p {
 
 .btn {
   text-transform: uppercase;
-  background: var(--clr-primary-5);
-  color: blue;
+  background: rgb(57, 57, 236);
+  color: white;
   padding: 0.375rem 0.75rem;
   letter-spacing: 1px;
   display: inline-block;
@@ -138,7 +138,7 @@ p {
 .btn:hover {
   color:white;
   background: #00ff55;
-  border-color: blue;
+  border-color: rgb(34, 34, 219);
 }
 /* section */
 .section {
