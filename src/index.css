@@ -130,10 +130,11 @@ p {
   display: inline-block;
   transition: var(--transition);
   font-size: 0.875rem;
-  border: 2px solid var(--clr-primary-5);
+  border: 2px solid blue;
   cursor: pointer;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   border-radius: var(--radius);
+  font-weight: 700;
 }
 .btn:hover {
   color:white;
