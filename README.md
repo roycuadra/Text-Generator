@@ -1,2 +1,4 @@
-### Lorem site generate paragraph based on the number
-- Live View: https://lorem-site.netlify.app
+# [Live Demo](https://text-generator-roycua.vercel.app/)
+
+# Text Generator
+
